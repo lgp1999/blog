@@ -236,8 +236,8 @@ Figma 最大的创新在于完全基于浏览器：
 
 但工具只是手段，重要的是设计师的思考和创造力。无论选择哪个工具，精通它并建立高效的工作流才是关键。
 
-另外，如果你正在寻找更多设计工具，不妨看看 [TapSave 设计工具精选](https://www.tapsave.net/category/design)。
+
 
 ---
 
-*想要发现更多设计工具？访问 [TapSave 设计工具精选](https://www.tapsave.net/category/design)*
+*🔥 推荐：[抖音视频下载](https://www.tapsave.net/zh/douyin/) - 免费在线下载无水印抖音视频*

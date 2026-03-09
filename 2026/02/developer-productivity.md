@@ -344,8 +344,6 @@ Sentry.init({
 
 记住：**工具是放大器，它能放大你的能力，也能放大你的坏习惯。** 先建立好的工作习惯，再用工具来加速。
 
-另外，如果你正在寻找更多开发工具，不妨看看 [TapSave 开发工具库](https://www.tapsave.net/category/dev)，里面收录了很多实用的开发辅助工具。
-
 ---
 
-*本站推荐: [TapSave 开发工具库](https://www.tapsave.net/category/dev)*
+*🔥 推荐：[抖音视频下载](https://www.tapsave.net/zh/douyin/) - 免费在线下载无水印抖音视频*

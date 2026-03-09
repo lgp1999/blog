@@ -4,7 +4,7 @@
 
 ## 什么是 TapSave？
 
-[TapSave](https://www.tapsave.net/) 是我维护的一个精心策划的工具导航平台，使命是帮助用户：
+[抖音视频下载](https://www.tapsave.net/zh/douyin/) 是我维护的一个免费在线工具，主要功能包括：
 
 - 🔍 快速找到满足特定需求的工具
 - 📊 通过对比选择最适合的方案
@@ -133,13 +133,8 @@ A: 在工具详情页点击"报告问题"，或直接联系我们的支持团队
 
 现在你已经了解了 TapSave 的基本使用方法，是时候开始探索了！
 
-👉 [访问 TapSave 首页](https://www.tapsave.net/) 开始发现你的下一个效率神器
-
-或者查看以下热门分类：
-- [设计工具精选](https://www.tapsave.net/category/design)
-- [开发工具库](https://www.tapsave.net/category/dev)
-- [AI 工具合集](https://www.tapsave.net/category/ai)
+👉 [立即使用抖音视频下载](https://www.tapsave.net/zh/douyin/) 免费下载高清无水印视频
 
 ---
 
-*有任何问题或建议？欢迎通过 [contact@tapsave.net](mailto:contact@tapsave.net) 联系我们。*
+*有任何问题或建议？欢迎通过邮件联系。*

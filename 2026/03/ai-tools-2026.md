@@ -250,8 +250,8 @@ Vercel 推出的 AI 工具：
 
 **关键不在于使用所有工具，而在于找到适合你工作流的几个核心工具，并真正掌握它们。**
 
-持续关注 [TapSave](https://www.tapsave.net/) 的 AI 工具分类，持续更新最新的 AI 工具发现和评测。
+想要下载喜欢的抖音视频？试试 [抖音视频下载](https://www.tapsave.net/zh/douyin/)，免费无水印下载，简单好用。
 
 ---
 
-*想要发现更多 AI 工具？访问 [TapSave AI 工具合集](https://www.tapsave.net/category/ai)*
+*🔥 推荐：[抖音视频下载](https://www.tapsave.net/zh/douyin/) - 免费在线下载无水印抖音视频*

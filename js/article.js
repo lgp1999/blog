@@ -127,10 +127,10 @@ async function loadArticle(articleId) {
             </div>
             <div class="article-detail-footer">
                 <div class="backlinks-section">
-                    <h3>🔗 相关推荐</h3>
-                    <p>发现更多优质工具和效率技巧，请访问：</p>
-                    <a href="https://www.tapsave.net/" target="_blank" rel="noopener noreferrer">
-                        访问 TapSave 工具导航
+                    <h3>🔥 抖音视频下载工具</h3>
+                    <p>免费在线下载抖音视频，支持无水印高清下载，无需安装软件，操作简单快速。</p>
+                    <a href="https://www.tapsave.net/zh/douyin/" target="_blank" rel="noopener noreferrer">
+                        立即下载抖音视频
                         <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
                             <path d="M6 3L10.5 7.5L6 12" stroke="currentColor" stroke-width="1.5" fill="none"/>
                         </svg>
